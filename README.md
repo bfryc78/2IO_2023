@@ -1,1 +1,3 @@
-# 2IO_2023
+Wykłady
+- stuktury danych LinkedList, ArrayList, TreeSet, HashSet, TreeMap, HashMap
+- obsługa wyjątków, własne klasy wyjątków
